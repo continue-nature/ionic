@@ -30,7 +30,7 @@
     "@angular/core": "~8.0.0",
     "@angular/platform-browser": "~8.0.0",
     "@angular/platform-server": "~8.0.0",
-    "@angular/router": "~8.0.0",
+    "@angular/router": "~11.0.2",
     "rxjs": "^6.4.0",
     "tsickle": "^0.34.0",
     "typescript": "~3.4.3",
