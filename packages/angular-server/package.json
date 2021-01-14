@@ -16,7 +16,7 @@
     "@angular-devkit/core": "~8.0.0",
     "@angular/common": "~8.0.0",
     "@angular/core": "~8.0.0",
-    "@angular/platform-server": "~8.0.0",
+    "@angular/platform-server": "~11.0.9",
     "@ionic/core": "*",
     "rxjs": ">=6.2.0",
     "zone.js": ">=0.8.26"
@@ -29,7 +29,7 @@
     "@angular/compiler-cli": "~8.0.0",
     "@angular/core": "~8.0.0",
     "@angular/platform-browser": "~8.0.0",
-    "@angular/platform-server": "~8.0.0",
+    "@angular/platform-server": "~11.0.9",
     "@angular/router": "~8.0.0",
     "rxjs": "^6.4.0",
     "tsickle": "^0.34.0",
